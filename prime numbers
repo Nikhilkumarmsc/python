@@ -1,0 +1,7 @@
+x=int(input("Enter a number:"))
+def prime(x):
+  cou=0
+for i in range(1,x+1):
+  if x%i==0:
+    cou=cou+1
+if 
